@@ -361,10 +361,11 @@
     <div class="card">
       <h3>Here's what I know</h3>
       <ul class="reasons">
+        <li><span class="icon">📵</span> I ignored your text, and that was a shitty thing to do.</li>
         <li><span class="icon">🙈</span> I was wrong, and I'm not going to make excuses for it.</li>
         <li><span class="icon">🫂</span> You deserve better than how things went.</li>
         <li><span class="icon">💌</span> I miss you already and it's only been this long.</li>
-        <li><span class="icon">🌷</span> I'm genuinely going to do better, not just say it.</li>
+        <li><span class="icon">🌷</span> I'm genuinely going to reply next time, not just say it.</li>
       </ul>
     </div>
 
@@ -574,3 +575,4 @@
 
 </body>
 </html>
+ 
